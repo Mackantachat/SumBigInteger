@@ -1,0 +1,14 @@
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.csproj.AssemblyReference.cache
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.GeneratedMSBuildEditorConfig.editorconfig
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.AssemblyInfoInputs.cache
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.AssemblyInfo.cs
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.csproj.CoreCompileInputs.cache
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.exe
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.deps.json
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.runtimeconfig.json
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.runtimeconfig.dev.json
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.dll
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\bin\Debug\netcoreapp3.1\TestAlgolithum.pdb
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.dll
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.pdb
+C:\MacWorkProfile\WebApplication1\TestAlgolithum\TestAlgolithum\obj\Debug\netcoreapp3.1\TestAlgolithum.genruntimeconfig.cache
