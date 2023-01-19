@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Numerics;
 
 namespace TestAlgolithum
@@ -16,10 +17,31 @@ namespace TestAlgolithum
             //BigInteger sum = bigInt1 + bigInt2; 
             //Console.WriteLine(sum);
 
-            string num1 = "999999999999999999999999999999999999999";
-            string num2 = "1";
-            string sum = AddLargeIntegers(num1, num2);
-            Console.WriteLine(sum);
+            //string num1 = "999999999999999999999999999999999999999";
+            //string num2 = "2";
+            //string sum = AddLargeIntegers(num1, num2);
+            //Console.WriteLine(sum);
+
+            string num1 = "999999999999999999999999999999999999999"; // 39-digit number
+            string num2 = "1"; // single digit number
+
+            int[] num1Arr = num1.Select(c => c - '0').ToArray();
+            int[] num2Arr = num2.Select(c => c - '0').ToArray();
+
+            int[] result = new int[num1Arr.Length + 1];
+            int carry = 0;
+
+            for (int i = num1Arr.Length - 1; i >= 0; i--)
+            {
+                int sum = num1Arr[i] + num2Arr[0] + carry;
+                result[i + 1] = sum % 10;
+                carry = sum / 10;
+            }
+            result[0] = carry;
+
+            string resultString = string.Join("", result);
+            Console.WriteLine(resultString);
+
 
         }
 
